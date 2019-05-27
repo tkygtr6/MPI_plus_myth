@@ -40,4 +40,4 @@ mpiexec -n 72 ./numa_test.sh 100
 ## References
 Takuya Fukuoka, Wataru Endo, Kenjiro Taura:
 An Efficient Inter-node Communication System with Lightweight-thread Scheduling.
-HPCC 2019. Zhangjiajie, China. August 2018
+HPCC 2019. Zhangjiajie, China. August 2019
