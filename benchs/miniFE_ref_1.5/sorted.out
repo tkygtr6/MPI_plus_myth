@@ -1,0 +1,689 @@
+
+
+
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+0.000476122s, total time: 0.000476122
+0.000529051s, total time: 0.00266218
+0.00165701s, total time: 0.00213313
+[[21853,1],0]: A high-performance Open MPI point-to-point messaging module
+Another transport will be used instead, although this may result in
+         assembling FE data...proc 1id 4, row 4
+CMA: unable to get RDMA device list
+CMA: unable to get RDMA device list
+      creating/filling mesh...proc 0: id_to_row.size(): 2
+Final Resid Norm: 1.05209e-16
+generating matrix structure...proc 1id 6, row 6
+  Host: wsblade225
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 0, row 0
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+id 9, row 9
+      imposing Dirichlet BC...1.19209e-05s, total time: 0.0026741
+      imposing Dirichlet BC...1.3113e-05s, total time: 0.00268722
+Initial Residual = 3.00723
+librdmacm: assuming: 4
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: couldn't read ABI version.
+lower performance.
+making matrix indices local...0.000105143s, total time: 0.00279236
+Module: OpenFabrics (openib)
+proc 0: 0 -> 0
+proc 0: 9 -> 9
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 10, row 10
+proc 0id 11, row 11
+proc 0id 11, row 11
+proc 0id 11, row 11
+proc 0id 11, row 11
+proc 0id 11, row 11
+proc 0id 11, row 11
+proc 0id 11, row 11
+proc 0id 11, row 11
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 12, row 12
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 13, row 13
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 14, row 14
+proc 0id 15, row 15
+proc 0id 15, row 15
+proc 0id 15, row 15
+proc 0id 15, row 15
+proc 0id 15, row 15
+proc 0id 15, row 15
+proc 0id 15, row 15
+proc 0id 15, row 15
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 16, row 16
+proc 0id 17, row 17
+proc 0id 17, row 17
+proc 0id 17, row 17
+proc 0id 17, row 17
+proc 0id 17, row 17
+proc 0id 17, row 17
+proc 0id 17, row 17
+proc 0id 17, row 17
+proc 0id 18, row 18
+proc 0id 19, row 19
+proc 0id 19, row 19
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 1, row 1
+proc 0id 20, row 20
+proc 0id 21, row 21
+proc 0id 21, row 21
+proc 0id 22, row 22
+proc 0id 22, row 22
+proc 0id 22, row 22
+proc 0id 22, row 22
+proc 0id 23, row 23
+proc 0id 23, row 23
+proc 0id 24, row 24
+proc 0id 25, row 25
+proc 0id 25, row 25
+proc 0id 26, row 26
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 2, row 2
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 3, row 3
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 4, row 4
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 5, row 5
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 6, row 6
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 7, row 7
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 0id 8, row 8
+proc 1: 0 -> 0
+proc 1: 9 -> 9
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 10, row 10
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 11, row 11
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 12, row 12
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 13, row 13
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 14, row 14
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 15, row 15
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 16, row 16
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 17, row 17
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 18, row 18
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 19, row 19
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 1, row 1
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 20, row 20
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 21, row 21
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 22, row 22
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 23, row 23
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 24, row 24
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 25, row 25
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 26, row 26
+proc 1id 2, row 2
+proc 1id 2, row 2
+proc 1id 2, row 2
+proc 1id 2, row 2
+proc 1id 2, row 2
+proc 1id 2, row 2
+proc 1id 2, row 2
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 3, row 3
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 4, row 4
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 5, row 5
+proc 1id 6, row 6
+proc 1id 6, row 6
+proc 1id 6, row 6
+proc 1id 6, row 6
+proc 1id 6, row 6
+proc 1id 6, row 6
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 7, row 7
+proc 1id 8, row 8
+proc 1id 8, row 8
+proc 1id 8, row 8
+proc 1id 8, row 8
+proc 1id 8, row 8
+proc 1id 8, row 8
+proc 1id 8, row 8
+proc 1: id_to_row.size(): 2
+Starting CG solver ... 
+was unable to find any relevant network interfaces:
+[wsblade225:29419] 1 more process has sent help message help-mpi-btl-base.txt / btl:no-nics
+[wsblade225:29419] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+x=0 BC, node 0, (0,0,0)
+x=0 BC, node 0, (0,0,0)
+x=0 BC, node 12, (0,1,1)
+x=0 BC, node 12, (0,1,1)
+x=0 BC, node 15, (0,2,1)
+x=0 BC, node 15, (0,2,1)
+x=0 BC, node 18, (0,0,2)
+x=0 BC, node 21, (0,1,2)
+x=0 BC, node 24, (0,2,2)
+x=0 BC, node 3, (0,1,0)
+x=0 BC, node 3, (0,1,0)
+x=0 BC, node 6, (0,2,0)
+x=0 BC, node 6, (0,2,0)
+x=0 BC, node 9, (0,0,1)
+x=0 BC, node 9, (0,0,1)
+x=1 BC, node 11, row 11, (2,0,1)
+x=1 BC, node 11, row 11, (2,0,1)
+x=1 BC, node 14, row 14, (2,1,1)
+x=1 BC, node 14, row 14, (2,1,1)
+x=1 BC, node 17, row 17, (2,2,1)
+x=1 BC, node 17, row 17, (2,2,1)
+x=1 BC, node 20, row 20, (2,0,2)
+x=1 BC, node 23, row 23, (2,1,2)
+x=1 BC, node 26, row 26, (2,2,2)
+x=1 BC, node 2, row 2, (2,0,0)
+x=1 BC, node 2, row 2, (2,0,0)
+x=1 BC, node 5, row 5, (2,1,0)
+x=1 BC, node 5, row 5, (2,1,0)
+x=1 BC, node 8, row 8, (2,2,0)
+x=1 BC, node 8, row 8, (2,2,0)
+y=0 BC, node 0, (0,0,0)
+y=0 BC, node 0, (0,0,0)
+y=0 BC, node 10, (1,0,1)
+y=0 BC, node 10, (1,0,1)
+y=0 BC, node 1, (1,0,0)
+y=0 BC, node 1, (1,0,0)
+y=0 BC, node 11, (2,0,1)
+y=0 BC, node 11, (2,0,1)
+y=0 BC, node 18, (0,0,2)
+y=0 BC, node 19, (1,0,2)
+y=0 BC, node 20, (2,0,2)
+y=0 BC, node 2, (2,0,0)
+y=0 BC, node 2, (2,0,0)
+y=0 BC, node 9, (0,0,1)
+y=0 BC, node 9, (0,0,1)
+y=1 BC, node 15, (0,2,1)
+y=1 BC, node 15, (0,2,1)
+y=1 BC, node 16, (1,2,1)
+y=1 BC, node 16, (1,2,1)
+y=1 BC, node 17, (2,2,1)
+y=1 BC, node 17, (2,2,1)
+y=1 BC, node 24, (0,2,2)
+y=1 BC, node 25, (1,2,2)
+y=1 BC, node 26, (2,2,2)
+y=1 BC, node 6, (0,2,0)
+y=1 BC, node 6, (0,2,0)
+y=1 BC, node 7, (1,2,0)
+y=1 BC, node 7, (1,2,0)
+y=1 BC, node 8, (2,2,0)
+y=1 BC, node 8, (2,2,0)
+z=0 BC, node 0, (0,0,0)
+z=0 BC, node 1, (1,0,0)
+z=0 BC, node 2, (2,0,0)
+z=0 BC, node 3, (0,1,0)
+z=0 BC, node 4, (1,1,0)
+z=0 BC, node 5, (2,1,0)
+z=0 BC, node 6, (0,2,0)
+z=0 BC, node 7, (1,2,0)
+z=0 BC, node 8, (2,2,0)
+z=1 BC, node 18, (0,0,2)
+z=1 BC, node 19, (1,0,2)
+z=1 BC, node 20, (2,0,2)
+z=1 BC, node 21, (0,1,2)
+z=1 BC, node 22, (1,1,2)
+z=1 BC, node 23, (2,1,2)
+z=1 BC, node 24, (0,2,2)
+z=1 BC, node 25, (1,2,2)
+z=1 BC, node 26, (2,2,2)

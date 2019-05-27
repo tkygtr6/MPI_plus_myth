@@ -1,0 +1,500 @@
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+CMA: unable to get RDMA device list
+CMA: unable to get RDMA device list
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+--------------------------------------------------------------------------
+[[11607,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: wsblade225
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+CMA: unable to get RDMA device list
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+librdmacm: couldn't read ABI version.
+librdmacm: assuming: 4
+CMA: unable to get RDMA device list
+      creating/filling mesh...ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+i: 0 1 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (0,2)  (0,1) 
+i: 1 1 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (0,1)  (1,2) 
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+0.00039506s, total time: 0.000396013
+generating matrix structure...ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+i: 3 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (0,2)  (0,1) 
+i: 4 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (0,1)  (1,2) 
+i: 5 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (1,2)  (1,2) 
+i: 6 1 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (2,4)  (0,1) 
+i: 7 1 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (2,4)  (1,2) 
+i: 8 0 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (3,3)  (1,2) 
+i: 9 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (2,4)  (0,1) 
+i: 10 0 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (3,3)  (0,1) 
+i: 11 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (2,4)  (1,2) 
+i: 12 0 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (3,3)  (1,2) 
+i: 13 1 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (0,2)  (2,4) 
+i: 14 0 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (0,1)  (3,3) 
+i: 15 0 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (1,2)  (3,3) 
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+i: 16 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (0,1)  (2,4) 
+i: 17 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (1,2)  (2,4) 
+i: 18 0 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (0,1)  (3,3) 
+i: 19 0 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (1,2)  (3,3) 
+i: 20 1 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (2,4)  (2,4) 
+i: 21 0 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (2,4)  (3,3) 
+i: 22 0 proc 2   (0,2)  (1,2)  (1,2)   (0,2)  (3,3)  (3,3) 
+i: 23 1 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (2,4)  (2,4) 
+i: 24 0 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (3,3)  (2,4) 
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+ERROR, failed to map id to row.
+i: 25 0 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (2,4)  (3,3) 
+i: 26 0 proc 2   (0,2)  (1,2)  (1,2)   (2,4)  (3,3)  (3,3) 
+0.00171995s, total time: 0.00211596
+         assembling FE data...0.000351906s, total time: 0.00246787
+      imposing Dirichlet BC...8.10623e-06s, total time: 0.00247598
+      imposing Dirichlet BC...5.00679e-06s, total time: 0.00248098
+making matrix indices local...[wsblade225:02806] *** Process received signal ***
+[wsblade225:02806] Signal: Segmentation fault (11)
+[wsblade225:02806] Signal code: Address not mapped (1)
+[wsblade225:02806] Failing at address: (nil)
+[wsblade225:02809] *** Process received signal ***
+[wsblade225:02809] Signal: Segmentation fault (11)
+[wsblade225:02809] Signal code: Address not mapped (1)
+[wsblade225:02809] Failing at address: (nil)
+[wsblade225:02808] *** Process received signal ***
+[wsblade225:02808] Signal: Segmentation fault (11)
+[wsblade225:02808] Signal code: Address not mapped (1)
+[wsblade225:02808] Failing at address: (nil)
+[wsblade225:02805] *** Process received signal ***
+[wsblade225:02805] Signal: Segmentation fault (11)
+[wsblade225:02805] Signal code: Address not mapped (1)
+[wsblade225:02805] Failing at address: (nil)
+[wsblade225:02812] *** Process received signal ***
+[wsblade225:02812] Signal: Segmentation fault (11)
+[wsblade225:02812] Signal code: Address not mapped (1)
+[wsblade225:02812] Failing at address: (nil)
+[wsblade225:02797] *** Process received signal ***
+[wsblade225:02797] Signal: Segmentation fault (11)
+[wsblade225:02797] Signal code: Address not mapped (1)
+[wsblade225:02797] Failing at address: (nil)
+[wsblade225:02811] *** Process received signal ***
+[wsblade225:02811] Signal: Segmentation fault (11)
+[wsblade225:02811] Signal code: Address not mapped (1)
+[wsblade225:02811] Failing at address: (nil)
+[wsblade225:02806] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02806] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02806] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02806] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02806] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02806] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02806] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02806] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02806] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02806] *** End of error message ***
+[wsblade225:02809] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02809] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02809] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02809] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02809] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02809] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02809] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02809] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02809] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02809] *** End of error message ***
+[wsblade225:02808] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02808] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02808] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02808] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02808] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02808] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02808] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02808] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02808] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02808] *** End of error message ***
+[wsblade225:02812] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02812] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02812] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02812] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02812] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02812] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02812] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02812] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02812] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02812] *** End of error message ***
+[wsblade225:02811] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02811] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02811] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02811] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02811] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02811] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02811] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02811] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02811] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02811] *** End of error message ***
+[wsblade225:02797] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02797] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02797] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02797] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02797] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02797] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02797] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02797] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02797] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02797] *** End of error message ***
+[wsblade225:02805] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02805] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02805] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02805] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02805] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02805] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02805] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02805] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02805] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02805] *** End of error message ***
+[wsblade225:02801] *** Process received signal ***
+[wsblade225:02801] Signal: Segmentation fault (11)
+[wsblade225:02801] Signal code: Address not mapped (1)
+[wsblade225:02801] Failing at address: (nil)
+[wsblade225:02802] *** Process received signal ***
+[wsblade225:02802] Signal: Segmentation fault (11)
+[wsblade225:02802] Signal code: Address not mapped (1)
+[wsblade225:02802] Failing at address: (nil)
+[wsblade225:02813] *** Process received signal ***
+[wsblade225:02813] Signal: Segmentation fault (11)
+[wsblade225:02813] Signal code: Address not mapped (1)
+[wsblade225:02813] Failing at address: (nil)
+[wsblade225:02813] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02813] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02813] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02813] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02813] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02813] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02813] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02813] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02813] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02813] *** End of error message ***
+[wsblade225:02794] *** Process received signal ***
+[wsblade225:02794] Signal: Segmentation fault (11)
+[wsblade225:02794] Signal code: Address not mapped (1)
+[wsblade225:02794] Failing at address: (nil)
+[wsblade225:02794] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02794] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02794] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02794] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02794] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02794] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02794] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02794] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02794] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02794] *** End of error message ***
+[wsblade225:02801] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02801] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02801] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02801] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02801] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02801] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02801] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02801] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02801] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02801] *** End of error message ***
+[wsblade225:02802] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02802] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02802] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02802] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02802] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02802] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02802] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02802] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02802] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02802] *** End of error message ***
+--------------------------------------------------------------------------
+mpirun noticed that process rank 21 with PID 2808 on node wsblade225 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+0.0036881s, total time: 0.00616908
+[wsblade225:02785] 26 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[wsblade225:02785] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[wsblade225:02799] *** Process received signal ***
+[wsblade225:02799] Signal: Segmentation fault (11)
+[wsblade225:02799] Signal code: Address not mapped (1)
+[wsblade225:02799] Failing at address: (nil)
+[wsblade225:02799] [ 0] /lib64/libpthread.so.0 [0x3c12a0eb70]
+[wsblade225:02799] [ 1] miniFE.x(_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi+0x31) [0x435987]
+[wsblade225:02799] [ 2] miniFE.x(_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi+0x13d) [0x435acb]
+[wsblade225:02799] [ 3] miniFE.x(_ZNSt6vectorIiSaIiEE9push_backERKi+0x78) [0x432330]
+[wsblade225:02799] [ 4] miniFE.x(_ZN6miniFE17make_local_matrixINS_9CSRMatrixIdixEEEEvRT_+0xc36) [0x42ac24]
+[wsblade225:02799] [ 5] miniFE.x(_ZN6miniFE6driverIdixEEiRK3BoxRS1_RNS_10ParametersER8YAML_Doc+0xb93) [0x424239]
+[wsblade225:02799] [ 6] miniFE.x(main+0x544) [0x41bbd2]
+[wsblade225:02799] [ 7] /lib64/libc.so.6(__libc_start_main+0xf4) [0x3c11e1d994]
+[wsblade225:02799] [ 8] miniFE.x(__gxx_personality_v0+0x1f1) [0x41ade9]
+[wsblade225:02799] *** End of error message ***
+2 total processes killed (some possibly by mpirun during cleanup)
